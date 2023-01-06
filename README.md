@@ -31,7 +31,7 @@
 
 ##
   
-![Snake animation](https://github.com/LucianoOliveira1/LucianoOliveir1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucianoOliveira1/LucianoOliveira1/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
