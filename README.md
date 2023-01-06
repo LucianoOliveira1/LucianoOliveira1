@@ -30,6 +30,8 @@
 </div>
 
 ##
+  
+![Snake animation](https://github.com/LucianoOliveira1/LucianoOliveir1/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
